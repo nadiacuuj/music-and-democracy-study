@@ -15,7 +15,7 @@ $$
 
 - Indepdendent Variable
   1. Democracy Index
-   Data for levels of countries' democracy were sourced from the ![Economist Intelligence Unit (EIU)’s Democracy Index](https://ourworldindata.org/grapher/democracy-index-eiu). These scores range from 0 (least democratic) to 10 (most democratic).
+   Data for levels of countries' democracy were sourced from the [Economist Intelligence Unit (EIU)’s Democracy Index](https://ourworldindata.org/grapher/democracy-index-eiu). These scores range from 0 (least democratic) to 10 (most democratic).
 
 - Indepdendent Variable
   1. Democracy Index
