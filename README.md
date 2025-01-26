@@ -34,13 +34,19 @@ https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 
 https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS
 
-
-
-![image](https://github.com/user-attachments/assets/549720fc-a712-4c1c-acd7-657564225b34)
-
-
-
-
-
-
 as well as beng a control - also included as an interaction. intuition is that ...
+
+
+
+
+![image](https://github.com/user-attachments/assets/6f892c11-87d6-4d37-b87b-0594d73f9571)
+
+![image](https://github.com/user-attachments/assets/e7ecd393-7ff2-4d7e-8e5f-ea6f7e5ecbd7)
+
+
+
+
+
+
+
+
