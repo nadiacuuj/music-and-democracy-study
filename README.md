@@ -42,7 +42,7 @@ as well as beng a control - also included as an interaction. intuition is that .
 
 ![image](https://github.com/user-attachments/assets/b618895f-2b8f-45f5-b7e2-f0ff286569f1)
 
-![image](https://github.com/user-attachments/assets/e7ecd393-7ff2-4d7e-8e5f-ea6f7e5ecbd7)
+![image](https://github.com/user-attachments/assets/fc0f2225-62ea-4d60-9971-b33c4ba331e1)
 
 
 
