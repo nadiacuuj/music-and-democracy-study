@@ -38,6 +38,7 @@ as well as beng a control - also included as an interaction. intuition is that .
 
 
 
+## Findings
 
 ![image](https://github.com/user-attachments/assets/ebcf05df-ac27-4096-b9c6-42d2d9a145f6)
 
