@@ -36,6 +36,11 @@ https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS
 
 
 
+![image](https://github.com/user-attachments/assets/549720fc-a712-4c1c-acd7-657564225b34)
+
+
+
+
 
 
 as well as beng a control - also included as an interaction. intuition is that ...
