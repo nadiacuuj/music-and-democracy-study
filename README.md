@@ -20,7 +20,7 @@ $$
      - Maximum possible genres for a single country in a single year = **(200 genres per week) * (52 weeks per year) = 10,400 genres**
 
 - Indepdendent Variable
-  2. **Democracy Index:**
+  1. **Democracy Index:**
      - Data for levels of countries' democracy were sourced from the [Economist Intelligence Unit (EIU)’s Democracy Index](https://ourworldindata.org/grapher/democracy-index-eiu). These scores range from 0 (least democratic) to 10 (most democratic).
  
 - Control Variables
