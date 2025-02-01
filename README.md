@@ -24,16 +24,16 @@ $$
      - Data for levels of countries' democracy were sourced from the [Economist Intelligence Unit (EIU)’s Democracy Index](https://ourworldindata.org/grapher/democracy-index-eiu). These scores range from 0 (least democratic) to 10 (most democratic).
  
 - Control Variables
-  1. **Wealth (GDP per capita):**
+  1. **Wealth:**
      - A country's wealth may influence both **democracy levels** and **access to music streaming services**, affecting music diversity.
-     - To prevent the confounding effect of this on the main relationship that this study aims to investigate, countries’ wealth, obtained from the [World Bank Development Indicators dataset](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD) will be accounted for in preceding analysis.
+     - To prevent the confounding effect of this on the main relationship that this study aims to investigate, countries’ wealth measured in terms of GDP per capita, obtained from the [World Bank Development Indicators dataset](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD) will be accounted for in preceding analysis.
        
   2. **Secondary School Completion Rate:**
      - A control for educational exposure influencing cultural preferences.
      - Sourced from the [World Bank's Secondary School Completion Rate dataset](https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS)  
  
 - Interaction Term
-  1. **(Secondary School Completion Rate)*(Democracy Index):**
+  1. **(Secondary School Completion Rate * Democracy Index):**
      - **Intuition:** Including this interaction term further dissects the relationship between music diversity and democracy by recognizing the idea that the ability for music to implicitly impart political themes may require a certain level of education.
      - **Categorizing education into "high" and "low":** The median global school completion rate is used as a benchmark since the data is left-skewed, with most values falling below the mean. Education levels vary widely, with developed countries having near-universal completion rates while others face limited access. The median, rather than the mean, prevents highly educated nations from skewing the threshold. Countries above the median = 1, at or below = 0, ensuring a balanced classification.
 
