@@ -28,7 +28,7 @@ $$
      - A country's wealth may influence both **democracy levels** and **access to music streaming services**, affecting music diversity.
      - To prevent the confounding effect of this on the main relationship that this study aims to investigate, countries’ wealth, obtained from the [World Bank Development Indicators dataset](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD) will be accounted for in preceding analysis.
        
-  1. **Secondary School Completion Rate:**
+  2. **Secondary School Completion Rate:**
      - A control for educational exposure influencing cultural preferences.
      - Sourced from the [World Bank's Secondary School Completion Rate dataset](https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS)  
  
