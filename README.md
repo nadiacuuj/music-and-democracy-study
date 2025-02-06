@@ -16,8 +16,8 @@ $$
 - Depdendent Variable
   1. **Music Diversity:** 
      - Measured by the number of ‘popular’ genres a country listens to in a year.
-     - Sourced from [Spotify’s Weekly Top 200 songs by country (2021-2022)](https://www.kaggle.com/datasets/yelexa/spotify200).
      - Max Possible Genres: 10,400 per country per year (200 genres/week * 52 weeks).
+     - Sourced from [Spotify’s Weekly Top 200 songs by country (2021-2022)](https://www.kaggle.com/datasets/yelexa/spotify200).
 
 - Indepdendent Variable
   1. **Democracy Index:**
