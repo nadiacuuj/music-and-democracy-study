@@ -31,7 +31,7 @@ $$
        
   2. **Secondary School Completion Rate:**
      - Controls for educational exposure’s effect on cultural preferences.
-     - Sourced from the [World Bank's Secondary School Completion Rate dataset](https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS).
+     - Sourced from the [World Bank](https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS).
  
 - Interaction Term
   1. **(School Completion Rate * Democracy Index)**:
