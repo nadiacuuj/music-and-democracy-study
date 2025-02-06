@@ -39,7 +39,7 @@ $$
      - Categorization: Uses the median global school completion rate as a threshold (1 = above median, 0 = at/below) to avoid skew from highly educated nations.
 
 - Clustering
-  - Regions: Countries grouped into 7 regions per World Bank classifications to account for shared political and cultural values.
+  - Regions: **Countries grouped into 7 regions** per World Bank classifications to account for shared political and cultural values.
   - Standard Errors: Clustered at the region level to correct for IID (Independent and Identically Distributed) violations in regression analysis.
 
 
